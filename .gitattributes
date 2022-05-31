@@ -1,0 +1,11 @@
+GUFI-Traces.part08 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part02 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part04 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part05 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part06 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part07 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part00 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part01 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part03 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part09 filter=lfs diff=lfs merge=lfs -text
+GUFI-Traces.part10 filter=lfs diff=lfs merge=lfs -text
